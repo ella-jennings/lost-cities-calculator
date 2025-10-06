@@ -71,6 +71,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+`yarn run deploy` (via github pages, publishes to gh-pages branch)
+
+
 #### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
