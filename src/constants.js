@@ -31,10 +31,10 @@ export const CardOrder = ["Deal1", "Deal2","Deal3", 2, 3, 4, 5, 6, 7, 8, 9, 10];
 export const GetInitialCities = () => {
   return {
     [CityEnum.YELLOW]: {cards: GetInitialCards(), total: 0},
-    [CityEnum.RED]: {cards: GetInitialCards(), total: 0 },
+    [CityEnum.WHITE]: {cards: GetInitialCards(), total: 0 },
     [CityEnum.BLUE]: {cards: GetInitialCards(), total: 0 },
     [CityEnum.GREEN]: {cards: GetInitialCards(), total: 0 },
-    [CityEnum.WHITE]: {cards: GetInitialCards(), total: 0 },
+    [CityEnum.RED]: {cards: GetInitialCards(), total: 0 },
     [CityEnum.PURPLE]: {cards: GetInitialCards(), total: 0 }
   }
 } 
