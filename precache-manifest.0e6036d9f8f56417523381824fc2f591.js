@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7845a6b8d94324615596251b009a7fde",
+    "revision": "20dc4753e52e8fefe6a908892f49956e",
     "url": "/lost-cities-calculator/index.html"
   },
   {
-    "revision": "9251d7ac6a3523616850",
-    "url": "/lost-cities-calculator/static/css/main.bd82c4f9.chunk.css"
+    "revision": "583638beb932dc55e92e",
+    "url": "/lost-cities-calculator/static/css/main.7d3d7714.chunk.css"
   },
   {
     "revision": "1eb467f1b710fa9a234b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lost-cities-calculator/static/js/2.259a7b61.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9251d7ac6a3523616850",
-    "url": "/lost-cities-calculator/static/js/main.fb00352c.chunk.js"
+    "revision": "583638beb932dc55e92e",
+    "url": "/lost-cities-calculator/static/js/main.13b087b5.chunk.js"
   },
   {
     "revision": "f5ef965bdd400ed6c22b",
